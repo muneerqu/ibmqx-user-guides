@@ -96,7 +96,7 @@ documentation. All the documents are created using RST format. You can
 find more info about it in:
 
 - `Wikipedia <https://en.wikipedia.org/wiki/ReStructuredText>`_
-- `Oficial web <http://docutils.sourceforge.net/rst.html>`_
+- `Official web <http://docutils.sourceforge.net/rst.html>`_
 - `Sphinx-doc quickstart <http://www.sphinx-doc.org/en/stable/rest.html>`_
 
 You can generate the documentation in format HTML using.
